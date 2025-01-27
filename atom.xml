@@ -6,7 +6,7 @@
   <link href="https://rx-ai.github.io/atom.xml" rel="self"/>
   
   <link href="https://rx-ai.github.io/"/>
-  <updated>2025-01-26T02:47:36.513Z</updated>
+  <updated>2025-01-27T07:32:48.550Z</updated>
   <id>https://rx-ai.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>引导用户快速上手使用软件、工具或框架。</title>
+    <link href="https://rx-ai.github.io/posts/1c291ca3.html"/>
+    <id>https://rx-ai.github.io/posts/1c291ca3.html</id>
+    <published>2025-01-27T07:28:12.944Z</published>
+    <updated>2025-01-27T07:32:48.550Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到 Hexo! 这是你的第一篇文章。 查看 文档 获取更多信息。如果你在使用 Hexo 时遇到任何问题，你可以在问题排查中找到答案，或者你可以在 GitHub 上向我提问 <a href="https://github.com/hexojs/hexo/issues。">https://github.com/hexojs/hexo/issues。</a></p><h2 id="Quick-Start-引导用户快速上手使用软件、工具或框架。"><a href="#Quick-Start-引导用户快速上手使用软件、工具或框架。" class="headerlink" title="Quick Start 引导用户快速上手使用软件、工具或框架。"></a>Quick Start 引导用户快速上手使用软件、工具或框架。</h2><h3 id="Create-a-new-post-这个标题通常用于指导用户如何在博客、论坛或其他内容管理系统中创建新的帖子或文章。"><a href="#Create-a-new-post-这个标题通常用于指导用户如何在博客、论坛或其他内容管理系统中创建新的帖子或文章。" class="headerlink" title="Create a new post  这个标题通常用于指导用户如何在博客、论坛或其他内容管理系统中创建新的帖子或文章。"></a>Create a new post  这个标题通常用于指导用户如何在博客、论坛或其他内容管理系统中创建新的帖子或文章。</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span>  </span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a> #更多信息请参考：写作</p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server    </span><br></pre></td></tr></table></figure><p>命令启动一个本地服务器 自动重新生成静态文件 缩写（hexo s）<br>More info: <a href="https://hexo.io/docs/server.html">Server</a>  </p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate  </span><br></pre></td></tr></table></figure><p>清理缓存文件<br>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy     </span><br></pre></td></tr></table></figure><p>将静态网站部署到远程服务器的命令<br>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h1 id="怎么同步更改啊，我咋看不明白呢"><a href="#怎么同步更改啊，我咋看不明白呢" class="headerlink" title="怎么同步更改啊，我咋看不明白呢"></a>怎么同步更改啊，我咋看不明白呢</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到 Hexo! 这是你的第一篇文章。 查看 文档 获取更多信息。如果你在使用 Hexo 时遇到任何问题，你可以在问题排查中找到答案，或者你可以在 GitHub 上向我提问 &lt;a href=&quot;https://github.com/hexojs/hexo/issues。&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
