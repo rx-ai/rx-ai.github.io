@@ -11,18 +11,18 @@
     font-weight: lighter;
   }
   
-  div#menus {
+  /* div#menus {                                  # 注释掉了 这个 不好在改
     font-family: "ZhuZiAYuanJWD";
-  }
+  } */
   h1#site-title {
-    font-family: ZhuZiAYuanJWD;
+    /* font-family: ZhuZiAYuanJWD; */
     font-size: 3em !important;
   }
   a.article-title,
   a.blog-slider__title,
   a.categoryBar-list-link,
   h1.post-title {
-    font-family: ZhuZiAYuanJWD;
+    /* font-family: ZhuZiAYuanJWD; */
   }
   
   .iconfont {
@@ -359,3 +359,5 @@
   #article-container figure.highlight {
     border-radius: 10px;
   }
+
+  
