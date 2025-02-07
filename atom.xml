@@ -6,7 +6,7 @@
   <link href="https://rx-ai.github.io/atom.xml" rel="self"/>
   
   <link href="https://rx-ai.github.io/"/>
-  <updated>2025-02-07T06:45:21.622Z</updated>
+  <updated>2025-02-07T07:46:12.150Z</updated>
   <id>https://rx-ai.github.io/</id>
   
   <author>
@@ -17,15 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://rx-ai.github.io/posts/0.html"/>
-    <id>https://rx-ai.github.io/posts/0.html</id>
-    <published>2025-02-07T06:45:21.622Z</published>
-    <updated>2025-02-07T06:45:21.622Z</updated>
+    <title>卡卡字幕助手使用教程</title>
+    <link href="https://rx-ai.github.io/posts/732228a0.html"/>
+    <id>https://rx-ai.github.io/posts/732228a0.html</id>
+    <published>2025-02-06T16:00:00.000Z</published>
+    <updated>2025-02-07T07:46:12.150Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>卡卡字幕助手(VideoCaptioner)是一款开源的视频字幕生成工具，支持多种语言识别和字幕格式导出，生成的字母改变以往的生硬，让视频字幕制作变得简单高效。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ul><li>🎯 支持多语言识别</li><li>📝 自动生成字幕文件</li><li>🎬 支持多种视频格式</li><li>💾 多种字幕格式导出</li><li>🚀 批量处理功能</li></ul><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><h3 id="1-下载安装"><a href="#1-下载安装" class="headerlink" title="1. 下载安装"></a>1. 下载安装</h3><ol><li>访问 <a href="https://github.com/WEIFENG2333/VideoCaptioner/releases">GitHub releases</a></li><li>下载最新版本安装包</li><li>解压后直接运行，无需安装（也可以安装包）</li></ol><p><img src="https://i.imgur.com/BVevW1v.png" alt="软件界面"></p><h3 id="2-基本使用步骤"><a href="#2-基本使用步骤" class="headerlink" title="2. 基本使用步骤"></a>2. 基本使用步骤</h3><ol><li>打开软件</li><li>点击”打开文件”选择视频</li><li>选择识别语言</li><li>点击”开始识别”</li><li>等待识别完成</li><li>导出字幕文件</li></ol><h3 id="3-字幕格式选择"><a href="#3-字幕格式选择" class="headerlink" title="3. 字幕格式选择"></a>3. 字幕格式选择</h3><p>支持导出格式：</p><ul><li>SRT</li><li>ASS</li><li>VTT</li><li>TXT</li></ul><h3 id="4-API配置"><a href="#4-API配置" class="headerlink" title="4. API配置"></a>4. API配置</h3><ul><li>内置模型软件内置基础大语言模型（gpt-4o-mini），无需配置即可使用</li><li>API支持支持标准 OpenAI API 格式。兼容<a href="https://cloud.siliconflow.cn/models">SiliconCloud</a>、<a href="https://platform.deepseek.com/usage">DeepSeek</a> 、 <a href="https://ollama.com/blog/openai-compatibility">Ollama</a> 等。</li><li>配置方法请参考<a href="https://github.com/WEIFENG2333/VideoCaptioner/blob/master/docs/llm_config.md">配置文档</a>。<br><img src="https://i.imgur.com/sndiZhM.png" alt="API界面"></li></ul><h2 id="5-使用技巧"><a href="#5-使用技巧" class="headerlink" title="5.使用技巧"></a>5.使用技巧</h2><ol><li><strong>批量处理</strong>：可以同时导入多个视频文件</li><li><strong>实时预览</strong>：支持字幕实时预览功能</li><li><strong>快捷键</strong>：空格键播放&#x2F;暂停视频</li></ol><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>支持的视频格式：MP4、AVI、MOV等</li><li>建议视频音质清晰，背景噪音小</li><li>较长视频建议分段处理</li></ul><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><ol><li><strong>字幕不同步</strong>：可以通过调整时间轴解决</li><li><strong>识别不准</strong>：尝试提高音频质量或手动修正</li><li><strong>导出失败</strong>：检查输出路径权限</li></ol><h2 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a>项目地址</h2><p>GitHub: <a href="https://github.com/WEIFENG2333/VideoCaptioner">VideoCaptioner</a></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>卡卡字幕助手是一款简单易用的字幕生成工具，适合需要快速生成视频字幕的用户使用。开源免费，持续更新，值得一试。</p>]]></content>
+    
+    
+    <summary type="html">卡卡字幕助手使用教程，轻松实现视频字幕自动生成</summary>
     
     
     
+    <category term="软件工具" scheme="https://rx-ai.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
     
+    
+    <category term="AI工具" scheme="https://rx-ai.github.io/tags/AI%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="视频处理" scheme="https://rx-ai.github.io/tags/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
